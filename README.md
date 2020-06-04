@@ -1,2 +1,1 @@
-# FoodBlog
-A simple blog application, having contents related to Food. I created this app when I was a beginner in android app development. This app is not so perfect, so please avoid mistakes. But still it can be helpful for a beginner, so feel free to fork &amp; use it 😎
+🍲Foodium is a sample food blog Android application 📱 built to demonstrate use of Modern Android development tools - (Kotlin, Coroutines, Flow, Dagger 2, Architecture Components, MVVM, Room, Retrofit, Moshi, Material Components). https://patilshreyas.github.io/Foodium/ 
